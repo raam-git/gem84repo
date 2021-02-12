@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'Gem84'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ad165cb6979b4bda9dab12bec609d5c8 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_14bfc2e2bca6499898ad9c96b72b8770 }}
